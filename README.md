@@ -1,4 +1,4 @@
-# [Team Name]
+# Team 3x3 (Canvas Group 9)
     - Matthew Urda (mtu7@pitt.edu)
     - Alex Rylatt (alr477@pitt.edu)
     - Dom Dottavio (dod89@pitt.edu)
